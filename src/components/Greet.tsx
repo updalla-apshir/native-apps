@@ -4,7 +4,7 @@ export default function App() {
   return (
     <View className="flex-1 items-center justify-center bg-white mt-10">
       <Text className="text-2xl font-bold text-blue-500">
-        Welcome to Nativewind!
+        Welcome to Nativewind
       </Text>
     </View>
   );
